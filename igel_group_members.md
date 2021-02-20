@@ -1,5 +1,10 @@
 # Igel Group Members
+## Faculty
+| Name | Research Area |
+|------|---------------|
 
-|Name |Degree |Year|
-|-----|-------|----|
-|Lucas|PhD | 4th|
+
+## Students
+| Name | Degree | Year|
+|------|--------|-----|
+|Lucas |PhD     | 4th |
