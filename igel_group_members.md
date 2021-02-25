@@ -9,3 +9,4 @@
 |------|--------|-----|
 |Lucas |PhD     | 4th |
 |Person2 | MS | 1st |
+|Arthur|PhD     | 4th |
