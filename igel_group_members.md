@@ -8,3 +8,4 @@
 | Name | Degree | Year|
 |------|--------|-----|
 |Lucas |PhD     | 4th |
+|Arthur|PhD     | 4th |
